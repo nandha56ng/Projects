@@ -22,7 +22,7 @@ FAAD-Mem addresses this problem through:
 ---
 
 ## 📂 Repository Structure
-
+'''
 ├── config.py # Experiment arguments
 ├── main.py # Training script (base, re-align, incremental)
 ├── FAADMem.py # FAAD-Mem core model
