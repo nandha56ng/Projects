@@ -22,13 +22,13 @@ FAAD-Mem addresses this problem through:
 ---
 
 ## 📂 Repository Structure
-'''
-├── config.py # Experiment arguments
-├── main.py # Training script (base, re-align, incremental)
-├── FAADMem.py # FAAD-Mem core model
-├── datasets/ # Dataset loaders
-├── results/ # Output logs (IL.csv, base_training.csv)
-└── README.md # Documentation
+
+├── config.py
+├── main.py 
+├── FAADMem.py
+├── datasets/
+├── results/ 
+└── README.md
 
 
 ---
