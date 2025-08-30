@@ -21,18 +21,6 @@ FAAD-Mem addresses this problem through:
 
 ---
 
-## 📂 Repository Structure
-
-├── config.py
-├── main.py 
-├── FAADMem.py
-├── datasets/
-├── results/ 
-└── README.md
-
-
----
-
 ## ⚙️ Installation
 
 We recommend **Python 3.8+** and **PyTorch ≥ 1.11**.
